@@ -1,4 +1,4 @@
-# Home location example
+# Home location (Dashboard) example
 This example shows how an app with a home location can be built.
 It creates a simple dashboard with information about your space and stats about your content
 
