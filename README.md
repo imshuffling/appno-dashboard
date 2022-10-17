@@ -2,6 +2,9 @@
 This example shows how an app with a home location can be built.
 It creates a simple dashboard with information about your space and stats about your content
 
+![image](https://user-images.githubusercontent.com/739061/196234914-1e8f7e5e-d5e7-4644-950a-11a5655b9b1a.png)
+
+
 ## How to use
 
 Execute create-contentful-app with npm, npx or yarn to bootstrap the example:
